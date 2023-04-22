@@ -1,0 +1,160 @@
+
+ @font-face{
+ 	font-family: "Raleway_2-2";
+ 	src: url("Raleway-Italic-VariableFont_wght.ttf");
+ }
+ p {
+ 	font-family: Raleway;
+ }
+ .blok1{
+ 	height: 110px;
+ 	width: 102%;
+ 	background-color: #C3C7CB;
+ 	display: flex;
+
+ }
+ .blok2{
+ 	background-color: #e1d9cf;
+  width: 102%;
+  position: absolute;
+
+ }
+ .menu{
+ 	display: flex;
+ }
+ .logo{
+ 	height: 70px;
+ 	width: 70px;
+ 	margin-top: 0px;
+ 	margin-left: 25px;
+
+ }
+ .onlyne{
+  font-size: 200%;
+  color: #1B3252;
+  margin-left: 40px;
+  margin-top: 40px
+ }
+ .a{
+  size: 200%;
+  color: #1B3252;
+  padding-left: 40px;
+  padding-top: 10px
+
+ }
+ .chapter{
+ 	height: 40px;
+ 	width: 100px;
+ 	background-color: #C3C7CB;
+ 	margin-top: 40px;
+ 	margin-left: 300%;
+ 	display: flex;
+ }
+ .about{
+ 	height: 40px;
+ 	width: 100px;
+ 	margin-top: 30px;
+ 	margin-left: 65px;
+ }
+ .servies{
+ 	height: 40px;
+ 	width: 100px;
+ 	margin-top: 40px;
+ 	margin-left: 15px;
+ }
+ .entrance{
+ 	height: 40px;
+ 	width: 140px;
+ 	margin-top: 30px;
+ 	margin-left: 430px;
+ }
+ .aboutus{
+ 	height: 800px;
+ 	width: 100%;
+ 	background-color: #e1d9cf;
+ }
+ .connection{
+ 	height: 350px;
+ 	width: 100%;
+ 	background-color: #1d3152;
+ }
+ .courses{
+ 	height: 850px;
+ 	width: 100%;
+ 	background-color: #a2a8b4;
+ }
+ .monkey{
+ 	height: 350px;
+ 	width: 100%;
+ }
+ /* меню */
+ .img1{
+ 	height: 350px;
+ 	width: 100%;
+ }
+ .img2{
+ 	height: 100px;
+ 	width: 110px;
+ }
+ .img3{
+ 	height: 17px;
+ 	width: 18px;
+ 	margin-top: 12%;
+ }
+ .txthome{ 
+ 	font-size: 170%;
+ 	color: #1B3252;
+ }
+ .divhome{
+ 	width: 80px;
+ 	position: absolute;
+ 	left: 602px;
+ 	bottom: 746px
+ }
+ .img4{
+ 	height: 19px;
+ 	width: 21px;
+ 	margin-top: 10%;	
+ }
+ .txted{
+ 	font-size: 170%;
+ 	color: #1B3252;
+ }
+ .dived{
+ 	width: 80px;
+ 	position: absolute;
+ 	left: 770px;
+ 	bottom: 746px
+ }
+ .img5{
+ 	height: 19px;
+ 	width: 21px;
+ 	margin-top: 10%;	
+ }
+ .txten{
+ 	font-size: 170%;
+ 	color: #1B3252;
+ }
+ .diven{
+ 	width: 80px;
+ 	position: absolute;
+ 	left: 835px;
+ 	bottom: 746px;
+ }
+ .img6{
+ 	height: 20px;
+ 	width: 22px;
+ 	margin-top: 8%;	
+ }
+ .txtlogin{
+ 	font-size: 170%;
+ 	color: #1B3252;
+ }
+ .divlogin{
+ 	width: 80px;
+ 	position: absolute;
+ 	left: 1300px;
+ 	bottom: 746px;
+
+ 
+ 
